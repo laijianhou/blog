@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  12 JAN 2026 21:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  12 JAN 2026 22:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/jianhoulai/Desktop/GitHub/blog/qit/Notes_LaTeX/main.tex
-(/Users/jianhoulai/Desktop/GitHub/blog/qit/Notes_LaTeX/main.tex
+**/Users/jianhoulai/Desktop/GitHub/blog/Notes/qit/main.tex
+(/Users/jianhoulai/Desktop/GitHub/blog/Notes/qit/main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -1131,12 +1131,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  42516 strings out of 474116
- 882708 string characters out of 5743682
+ 882690 string characters out of 5743682
  2002187 words of memory out of 5000000
  64160 multiletter control sequences out of 15000+600000
  574903 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,19n,99p,731b,1375s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,19n,99p,725b,1375s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
